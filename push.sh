@@ -1,1 +1,1 @@
-podman push quay.io/jonkey/rhods/odh-pytorch-notebook-aria2:2023.2-1
+podman push quay.io/jonkey/rhods/odh-pytorch-notebook-aria2:2023.2-2
